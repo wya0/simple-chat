@@ -10,7 +10,7 @@ One binary. One model. No bells and whistles.
 
 [![Telegram](https://img.shields.io/badge/Telegram-sliverkiss__blog-2AABEE?style=flat-square&logo=telegram)](https://t.me/sliverkiss_blog)
 [![Go](https://img.shields.io/badge/Go-1.23-00ADD8?style=flat-square&logo=go)](https://go.dev)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
+[![License: Non-Commercial](https://img.shields.io/badge/License-Non--Commercial-red?style=flat-square)](LICENSE)
 [![Docker](https://img.shields.io/badge/Docker-distroless-2496ED?style=flat-square&logo=docker)](Dockerfile)
 
 *Send standard OpenAI-format chat requests, get standard OpenAI-format responses back.*
@@ -314,4 +314,6 @@ week, never in a storm. `DS_PURGE=0` or `DS_PURGE_WEEKDAY=-1` disables it.
 
 ## 📄 License
 
-MIT — see [LICENSE](LICENSE).
+**Non-commercial.** Personal and non-commercial use, modification and redistribution are
+allowed with attribution; **any commercial use requires prior written permission** from the
+copyright holder. See [LICENSE](LICENSE).
